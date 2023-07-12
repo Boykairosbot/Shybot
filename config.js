@@ -30,11 +30,11 @@ global.footer = "©\t" + "Enter Your Watermark Here"
 global.prefa = ['-'] // single prefix
 global.themeemoji = "🎐"
 global.socialText = `*⪧⪢ Please join this group for by bot's announcement.*`
-global.socialLink = `*⪧⪢https://chat.whatsapp.com/Jx82K0k2ZRpBfEdLvSn1rF,https://chat.whatsapp.com/JC1IqSwMbflLje1Obzi5MX💝*`
+global.socialLink = `*⪧⪢https://chat.whatsapp.com/Jx82K0k2ZRpBfEdLvSn1rF💝*`
 
 
 global.ownername = "Shy BOSS"    
-global.ownernumber = ["2349014157640,2348056948188"]
+global.ownernumber = ["2349014157640"]
 global.ytname = "YT: Enter Your Channel Name Here"
 global.continent = "Africa" // your continent name 
 global.region = "Warri"
