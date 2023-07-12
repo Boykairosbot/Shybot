@@ -30,7 +30,7 @@ global.footer = "©\t" + "Enter Your Watermark Here"
 global.prefa = ['-'] // single prefix
 global.themeemoji = "🎐"
 global.socialText = `*⪧⪢ Please join this group for by bot's announcement.*`
-global.socialLink = `*⪧⪢https://chat.whatsapp.com/Jx82K0k2ZRpBfEdLvSn1rF💝*`
+global.socialLink = `*⪧⪢https://chat.whatsapp.com/Jx82K0k2ZRpBfEdLvSn1rF,https://chat.whatsapp.com/JC1IqSwMbflLje1Obzi5MX💝*`
 
 
 global.ownername = "Shy BOSS"    
