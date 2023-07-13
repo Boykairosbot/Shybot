@@ -32,9 +32,9 @@ global.themeemoji = "🎐"
 global.socialText = `*⪧⪢ Please join this group for by bot's announcement.*`
 global.socialLink = `*⪧⪢https://chat.whatsapp.com/Jx82K0k2ZRpBfEdLvSn1rF💝*`
 
-
+H
 global.ownername = "Shy BOSS"    
-global.ownernumber = ["2349014157640"]
+global.ownernumber = ["2349045950383"]
 global.ytname = "YT: Enter Your Channel Name Here"
 global.continent = "Asia" // your continent name 
 global.region = "Warri"
